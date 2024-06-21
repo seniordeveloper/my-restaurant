@@ -1,0 +1,18 @@
+[
+  {
+    "ErrorCode": "RestaurantCannotServeLargeGroup",
+    "Description": "We bring our apologise: we cannot serve up to {0}."
+  },
+  {
+    "ErrorCode": "UnhandledError",
+    "Description": "Unhandled exception occured."
+  },
+  {
+    "ErrorCode": "ClientsGroupNotFound",
+    "Description": "Clients group with id {0} not found."
+  },
+  {
+    "ErrorCode": "ClientsGroupSizeMismatch",
+    "Description": "Clients group size is different than store in database."
+  }
+]
